@@ -148,12 +148,17 @@
   },
   "active": "a34e4ef82f41e266",
   "lastOpenFiles": [
+    "2.Solution/1 ContextDiagram.svg",
+    "2.Solution/2 Functional decomposition.svg",
+    "1.Problem/1 BusinessGoalsDriversAndRequirements.md",
+    "README.md",
+    "3 ADR.md",
+    "2.Solution/6 Deployment_diagram.svg",
+    "2.Solution/5_3 Sequence_Diagramm.svg",
+    "2.Solution/5_2 Sequence_Diagramm.svg",
     "2.Solution/5_1 Sequence_Diagramm.svg",
     "2.Solution/4 Container_diagram.svg",
     "2.Solution/3 Domain model.svg",
-    "2.Solution/2 Functional decomposition.svg",
-    "2.Solution/1 ContextDiagram.svg",
-    "1.Problem/2 Critical scenarios.md",
-    "1.Problem/1 BusinessGoalsDriversAndRequirements.md"
+    "1.Problem/2 Critical scenarios.md"
   ]
 }
